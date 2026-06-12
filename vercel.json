@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/shopease_ai_powered.html" }
+  ],
+  "cleanUrls": true,
+  "trailingSlash": false
+}
